@@ -9,9 +9,12 @@ The Apex Gear Performance Analysis Report for 2021 provides a comprehensive anal
 The dataset was gotten from Kaggle, and several strategies were applied to ensure data consistency and accuracy:
 
 **Duplicate Removal:** Duplicate rows were identified and deleted to prevent inconsistent results.
+
 **Text to Columns:** Combined data points in a single column were split using the Text to Columns function, ensuring each value was properly categorized.
+
 **Date Formatting:** Inconsistent date entries were corrected, with all dates standardized to a uniform date format for accurate time-based analysis.
-**Standard Table Conversion: **The dataset was transformed into a structured Excel table to enable easier management, automation, and dynamic analysis.
+
+**Standard Table Conversion**: **The dataset was transformed into a structured Excel table to enable easier management, automation, and dynamic analysis.
 These steps helped transform the raw dataset into a clean, structured foundation for insightful analysis.
 
 **PRE-ANALYSIS**
